@@ -1,0 +1,23 @@
+{
+  "name": "todo-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilekcn/todo-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilekcn/todo-typescript/issues"
+  },
+  "homepage": "https://github.com/Dilekcn/todo-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
